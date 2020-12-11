@@ -63,7 +63,7 @@ Das Artemis der Universität Stuttgart findet man unter [https://artemis.k8s.sqa
 > Hinweis: für diese Ansicht muss man [angemeldet sein](#Anmelden)
 
 ![Hauptansicht mit Kurs](Images/with_course.png)
-- Auf der Überblicksseite sind alle angemeldeten Kurse sichtbar
+- Auf der Überblicksseite sind alle angemeldeten Kurse **(1)** sichtbar
     - Ist der Kurs _PSE WS 20/21_ nicht sichtbar, [steht die Anmeldung für diesen noch aus](#Für-PSE-Kurs-anmelden)
     - Durch einen Klick auf den Kurs erhält man einen [Überblick über die Aufgaben des Kurses](#Aufgabenübersicht)
 
@@ -71,9 +71,21 @@ Das Artemis der Universität Stuttgart findet man unter [https://artemis.k8s.sqa
 ![Aufgaben](Images/exercises.png)
 ![Aufgabe auswählen](Images/exercise.png)
 ![Projekt herunterladen](Images/clone.png)
+- Unter **(1)** findet sich eine chronologische Auflistung aller Aufgaben
+- Noch nicht gestartete Aufgaben erkennt man  am _Start exercise_ **(2)** Button  
+  - Durch einen Klick auf diesen Startet man die Aufgabe
+- Schon gestartete Aufgaben erkennt man am _Clone Repository_ **(3)** Button
+    - Durch einen Klick auf diesen öffnet sich ein Popup, in dem man die URL des Repositories kopieren **(4)** kann
+    - Diese URL ist notwendig um das Projekt...
+        - ... in Eclipse zu öffnen: siehe Video _Versionskontrolle mit git (Theorie)_ und Anleitung Übungsblatt, Anleitung hier folgt
+        - ... in SQA Code online öffnen: coming soon
+    - Beim Herunterladen des Projekts wird ein Passwort (und ggf. ein Username) abgefragt: hierbei handelt es sich um das Artemis-Password und Username
+- Durch einen Klick auf die jeweilige Aufgabe galangt man zur [Detailansicht der Aufgabe](#Aufgabendetails)
+- Jede Aufgabe hat ein Abgabedatum (/Einreichungsfrist) **(5)**
+    - Achtung: Abgaben finden weiterhin in Ilias statt! Das Abgabedatum auf dem Arbeitsblatt / in Ilias ist gültig! Die Angabe in Artemis dient nur zur Orientierung und kann (u.a. aus technischen Gründen) abweichen.
 
 ## Aufgabendetails
-> Hinweis: um diese Ansicht zu erreichen siehe [Aufgabenüberblick](#Aufgabenüberblick)
+> Hinweis: zu dieser Ansicht zu gelangen siehe [Aufgabenüberblick](#Aufgabenüberblick)
 
 ![Aufgabendetails](Images/exercise_detail.png)
 ![Feedback](Images/feedback.png)
