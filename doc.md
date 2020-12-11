@@ -89,3 +89,13 @@ Das Artemis der Universität Stuttgart findet man unter [https://artemis.k8s.sqa
 
 ![Aufgabendetails](Images/exercise_detail.png)
 ![Feedback](Images/feedback.png)
+- Eine Aufgabe besteht aus mehreren Tasks **(1)**
+- Sobald eine Lösung hochgeladen wurde, wird automatisch überprüft, welche Tasks erfüllt sind
+    - Erfüllte Tasks werden mit einem grünen Haken **(3)** markiert
+    - Nicht erfüllte Tasks werden mit einem roten Kreuz **(4)** markiert
+    - Eine Teilaufgabe des Aufgabenblatts kann mehrere Tasks haben, es kann auch Tasks geben die keiner Teilaufgabe zugeordnet sind (z.B. spawne keine weiteren Hamster)
+- Über der Aufgabenbeschreibung befindet sich eine Übersicht aller Tasks **(2)** sowie welcher Anteil aller Tasks erfüllt ist **(6)**
+- Durch einen Klick auf **(4), (5)** und **(6)** erhält man Feedback **(7)**, warum der jeweilige Task nicht erfüllt wurde
+    - Dies geschieht meistens durch eine Fehlermeldung **(8)** und/oder einer genaueren Nachricht
+- Für Herunterladen (clonen) eines Projektes siehe [Aufgabenübersicht](#Aufgabenübersicht)
+- Für Hochladen (pushen) eines Projektes siehe Video _Versionskontrolle mit git (Theorie)_ und Anleitung Übungsblatt, Anleitung hier folgt
