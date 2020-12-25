@@ -78,7 +78,7 @@ Das Artemis der Universität Stuttgart findet man unter [https://artemis.k8s.sqa
     - Durch einen Klick auf diesen öffnet sich ein Popup, in dem man die URL des Repositories kopieren **(4)** kann
     - Diese URL ist notwendig um das Projekt...
         - ... in Eclipse zu öffnen: siehe Video _Versionskontrolle mit git (Theorie)_ und Anleitung Übungsblatt, Anleitung hier folgt
-        - ... in SQA Code online öffnen: coming soon
+        - ... in SQA Code online öffnen: siehe [SQA Code Online Dokumentation](https://github.com/SQAHamster/SQA-Code-Online-Documentation/blob/master/doc.md#artemis)
     - Beim Herunterladen des Projekts wird ein Passwort (und ggf. ein Username) abgefragt: hierbei handelt es sich um das Artemis-Password und Username
 - Durch einen Klick auf die jeweilige Aufgabe galangt man zur [Detailansicht der Aufgabe](#Aufgabendetails)
 - Jede Aufgabe hat ein Abgabedatum (/Einreichungsfrist) **(5)**
